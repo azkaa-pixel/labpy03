@@ -17,7 +17,7 @@ NIM  : 312410521
 4. gunakan fungsi random() yang dapat diimport terlebih dahulu
 
 ### - flowchart
-![foto]
+![foto](https://github.com/azkaa-pixel/labpy03/blob/dea2f4c64bfa2797d82b420b8c5436121d6b0db2/labpy03%20lat%201.png)
 ### - code program
 ```phython
 from random import random
@@ -62,7 +62,7 @@ Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal a
 pada bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5, pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan keuntungan sebesar 2%,
 sehingga laba menjadi 3%. Hitung total keuntungan selama 8 bulan berjalan usahanya.
 ### - flowchart
-![foto]()
+![foto](https://github.com/azkaa-pixel/labpy03/blob/dea2f4c64bfa2797d82b420b8c5436121d6b0db2/labpy03%20latihan%202.png)
 ### - code program 
 ```phython
 modal_awal = 100_000_000  # 100 juta
@@ -97,7 +97,7 @@ Format ```:,.0f``` digunakan untuk menampilkan angka dalam format yang lebih mud
 ## latihan 3
 Buat program yang mensimulasikan mesin ATM sederhana. Pengguna memiliki saldo awal sebesar Rp 1.000.000, dan dapat menarik uang hingga saldo habis atau memilih untuk keluar.
 ### - flowchart
-![foto]()
+![foto](https://github.com/azkaa-pixel/labpy03/blob/dea2f4c64bfa2797d82b420b8c5436121d6b0db2/labpy03%20latihan3.png)
 ### - code program 
 ```phython
 def _init_(self, saldo_awal):
